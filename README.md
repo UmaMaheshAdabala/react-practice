@@ -13,4 +13,13 @@
 - Compress
 - Consistent hasing
 - code splitting
+- Tree Shaking // removes unwanted code
 
+# Babel
+- A transpiler that converts the jsx to react code
+
+# Component
+- Independent and reusable bits of code
+-  The thing that renders on screen is a component
+- 2 Types 1. Functional 2. Class
+- Mostly we use Functional Component
